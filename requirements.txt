@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+pdfplumber
+tqdm
+requests
+urllib3
+pmdarima
+prophet
+xgboost
+lightgbm
+torch
+streamlit
+plotly

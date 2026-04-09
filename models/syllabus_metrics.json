@@ -1,0 +1,27 @@
+{
+    "Baseline (Naive)": {
+        "MAE": 16209.449029438894,
+        "R2": 0.0,
+        "file": "baseline_model.pkl"
+    },
+    "Linear Model (Ridge)": {
+        "MAE": 3654.5070443190384,
+        "R2": 0.8642445674598606,
+        "file": "linear_model.pkl"
+    },
+    "Tree Ensemble (Random Forest)": {
+        "MAE": 4428.782295650327,
+        "R2": 0.7764237561095468,
+        "file": "tree_model.pkl"
+    },
+    "Gradient Boosting (GBM)": {
+        "MAE": 4828.803368808413,
+        "R2": 0.7304490668653886,
+        "file": "gradient_model.pkl"
+    },
+    "Neural Network (MLP)": {
+        "MAE": 112863.16612591963,
+        "R2": 0.0,
+        "file": "neural_model.pkl"
+    }
+}

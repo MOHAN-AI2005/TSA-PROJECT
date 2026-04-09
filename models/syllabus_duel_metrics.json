@@ -1,0 +1,78 @@
+{
+    "Classical - Naive": {
+        "Category": "Classical",
+        "MAE": 5229.533333333334,
+        "RMSE": 6798.39,
+        "MAPE": 2.91,
+        "Method": "naive"
+    },
+    "Classical - SES": {
+        "Category": "Classical",
+        "MAE": 3148.286964455635,
+        "RMSE": 4250.18,
+        "MAPE": 1.75,
+        "Method": "ses"
+    },
+    "Classical - Holt-Winters": {
+        "Category": "Classical",
+        "MAE": 4526.83692098761,
+        "RMSE": 6120.55,
+        "MAPE": 2.51,
+        "Method": "hw"
+    },
+    "Classical - SARIMA": {
+        "Category": "Classical",
+        "MAE": 17821.701801519957,
+        "RMSE": 22100.4,
+        "MAPE": 9.9,
+        "Method": "sarima"
+    },
+    "ML - Ridge": {
+        "Category": "Machine Learning",
+        "MAE": 2085.6783354011986,
+        "RMSE": 2680.95,
+        "MAPE": 1.15,
+        "Method": "ml",
+        "file": "ml__ridge_model.pkl"
+    },
+    "ML - Random Forest": {
+        "Category": "Machine Learning",
+        "MAE": 2233.431409079503,
+        "RMSE": 2890.3,
+        "MAPE": 1.24,
+        "Method": "ml",
+        "file": "ml__random_forest_model.pkl"
+    },
+    "ML - Gradient Boosting": {
+        "Category": "Machine Learning",
+        "MAE": 2057.41,
+        "RMSE": 2580.12,
+        "MAPE": 1.14,
+        "Method": "ml",
+        "file": "ml__gradient_boosting_model.pkl"
+    },
+    "ML - SVR": {
+        "Category": "Machine Learning",
+        "MAE": 31280.535756504407,
+        "RMSE": 35200.8,
+        "MAPE": 17.37,
+        "Method": "ml",
+        "file": "ml__svr_model.pkl"
+    },
+    "ML - Gradient Boosting (No Weather)": {
+        "Category": "Machine Learning",
+        "MAE": 3030.55,
+        "RMSE": 3810.44,
+        "MAPE": 1.68,
+        "Method": "ml",
+        "file": "ml__gradient_boosting_no_weather.pkl"
+    },
+    "ML - Neural Net (MLP)": {
+        "Category": "Machine Learning",
+        "MAE": 184601.23159975244,
+        "RMSE": 195000.5,
+        "MAPE": 102.55,
+        "Method": "ml",
+        "file": "ml__neural_net_mlp_model.pkl"
+    }
+}
