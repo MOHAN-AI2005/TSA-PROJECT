@@ -6,10 +6,9 @@
 This repository houses a professional-grade research suite for **National Electricity Demand Forecasting**. Developed for a high-distinction academic defense, this system shifts the forecasting paradigm from traditional univariate (history-only) models to a **Multivariate Ensemble Architecture**. By fusing programmatic grid data with regional meteorological vectors, we achieve industry-leading precision in predicting grid loads across the Indian power sector.
 
 ### 👥 Research Team
-*   **MITHIL** — 24BCSXXX
-*   **SANJAY** — 24BCSXXX
-*   **MOHAN** — 24BDSXXX
-*   **Guided By**: Dr. Nataraj K S
+*   **MITHIL** — 24BCS104
+*   **SANJAY** — 24BCS100
+*   **MOHAN** — 24BDS066
 
 ---
 
