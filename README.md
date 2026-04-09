@@ -78,7 +78,6 @@ To ensure grid reliability, the system prioritizes transparency over "Black-Box"
 ├── scripts/            # Orchestration & Utility Logic
 ├── notebooks/          # Research Methodology Archives
 ├── Project_Report.txt  # 📝 FINAL RESEARCH DISSERTATION
-└── TSA-PROJECT-Analysis.md # 🔍 FORENSIC PROJECT ANALYSIS
 ```
 
 ---
