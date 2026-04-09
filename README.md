@@ -1,5 +1,5 @@
 # Multivariate Electricity Demand Forecasting Using Weather and Calendar Effects
-![GridPulse Dashboard Hero](./docs/images/hero_dashboard.png)
+![GridPulse Dashboard: Signals & Historical Load Analysis](./docs/images/dashboard_signals.png)
 > **A Senior Engineering Framework for High-Precision Load Analytics & XAI**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
@@ -16,14 +16,24 @@ This repository houses the final, professional-grade research suite for **Nation
 *   **Precision Benchmark**: **1.14% MAPE** (Mean Absolute Percentage Error).
 *   **Operational ROI**: **60.7% Total Error Reduction** relative to naive pulse baselines.
 *   **Weather Benefit**: **32.1% net accuracy gain** through exogenous environmental coupling.
+
+![Multi-Model Benchmarks & Signal Memory (ACF/PACF)](./docs/images/dashboard_metrics.png)
+
 *   **Stability Index**: **Certified High Reliability** via a 150-day rolling MAE audit.
 
 ---
 
+### 🧪 EXPLORATORY DATA ANALYSIS (EDA)
+Before modeling, we performed a forensic signal audit of the NLDC 1,095-day trajectory.
+
+| Seasonal Decomposition | Feature Correlation | Weekly Load Profile |
+| :---: | :---: | :---: |
+| ![Decomposition](./docs/images/eda_decomposition.png) | ![Correlation](./docs/images/eda_correlation.png) | ![Weekly Profile](./docs/images/eda_weekly_profile.png) |
+
 ### 🧠 THE INTELLIGENCE ECOSYSTEM
 The project is delivered through a high-concurrency architecture that prioritizes **Explainability (XAI)** and **Operational Transparency**.
 
-![XAI Reasoning & Feature Importance](./docs/images/xai_panel.png)
+![Mathematical Drivers (Gini Importance) & Temporal Stability Audit](./docs/images/dashboard_diagnostics.png)
 
 *   **Multivariate Engine**: Ingests real-time trajectory data (NLDC) fused with meteorological vectors (`temp_max`, `precip`, `wind`).
 *   **Reasoning Agent**: A natural language logic layer that justifies every MW forecast in human-readable terms.
