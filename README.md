@@ -1,4 +1,5 @@
 # Multivariate Electricity Demand Forecasting Using Weather and Calendar Effects
+![GridPulse Dashboard Hero](./docs/images/hero_dashboard.png)
 > **A Senior Engineering Framework for High-Precision Load Analytics & XAI**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
@@ -19,8 +20,10 @@ This repository houses the final, professional-grade research suite for **Nation
 
 ---
 
-## 🚀 THE INTELLIGENCE ECOSYSTEM
+### 🧠 THE INTELLIGENCE ECOSYSTEM
 The project is delivered through a high-concurrency architecture that prioritizes **Explainability (XAI)** and **Operational Transparency**.
+
+![XAI Reasoning & Feature Importance](./docs/images/xai_panel.png)
 
 *   **Multivariate Engine**: Ingests real-time trajectory data (NLDC) fused with meteorological vectors (`temp_max`, `precip`, `wind`).
 *   **Reasoning Agent**: A natural language logic layer that justifies every MW forecast in human-readable terms.
