@@ -23,13 +23,6 @@ This repository houses the final, professional-grade research suite for **Nation
 
 ---
 
-### 🧪 EXPLORATORY DATA ANALYSIS (EDA)
-Before modeling, we performed a forensic signal audit of the NLDC 1,095-day trajectory.
-
-| Seasonal Decomposition | Feature Correlation | Weekly Load Profile |
-| :---: | :---: | :---: |
-| ![Decomposition](./docs/images/eda_decomposition.png) | ![Correlation](./docs/images/eda_correlation.png) | ![Weekly Profile](./docs/images/eda_weekly_profile.png) |
-
 ### 🧠 THE INTELLIGENCE ECOSYSTEM
 The project is delivered through a high-concurrency architecture that prioritizes **Explainability (XAI)** and **Operational Transparency**.
 
