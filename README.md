@@ -1,4 +1,4 @@
-# NATIONAL GRID INTELLIGENCE: MULTIVARIATE DEMAND FORECASTING
+# Multivariate Electricity Demand Forecasting Using Weather and Calendar Effects
 > **A Senior Engineering Framework for High-Precision Load Analytics & XAI**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
